@@ -1,17 +1,13 @@
-//Constractor 
-//1st call based cls and call Derive cls consturctor is call as chain of consturctor 
-//1st call Anmal then Horse 
-//
 import java.util.*;
 
 abstract class  Animal  //hid
 {
-        abstract  void walk();  // useing Abstract
+        abstract  void walk();  // using Abstract
 	Animal() // constractor 
 	{
 		System.out.println("You are createing new animal");
 	}
-        public void eat()       //useing Non-Abstract
+        public void eat()       //using Non-Abstract
         {
                 System.out.println("Animal eats");
         }
