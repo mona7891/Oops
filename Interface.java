@@ -15,8 +15,8 @@ interface Animal
 	//void eat();--> Abstract  
 
 }
-// java does not have multiInhritance 
-// but interface have Inhritance
+// java does not have  multipleInhritance
+// but interface have 
 
 interface Herbivore
 {
@@ -35,7 +35,7 @@ class Horse implement Animal,Herbivore      // Interface
 public class Interface
 {
 	public static void main(String args[])
-		// static --> cls sathi common OR Access
+		
 	{
 		Horse horse = new Horse();
 
