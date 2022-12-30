@@ -22,7 +22,7 @@ class Student
 		this.age = age;
 	}
 
-	*/ //copy constructor s2 madhe object copy honar  
+	*/  
 	Student(Student s2)
 	{
 		this.name = s2.name;
@@ -39,17 +39,12 @@ public class Oops_student
 {
 	public static void main(String args[])
 	{
-		Student s1 = new Student();    // Student() -> constructor
-                                               // class name & constructor name are same 
-					       // NOt return type
-					       // object construct kartat
-					       // only 1 time we can call when object is create
-					       // type : Non-Parameterized OR Parameterized
+		Student s1 = new Student();    
 
 		s1.name = "sakshi";
 		s1.age = 23;
 		
-		Student s2 = new Student(s1);    // copy consturctome 
+		Student s2 = new Student(s1);    
 
 		s2.printInfo();
 
