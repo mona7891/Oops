@@ -1,7 +1,4 @@
-//function overloading same function name created  //(complile time)
-//different function but name same call as Polymorphism  //
-//return type diff if not then parameter are not same ,if same then data type are not same 
-//complile time 
+
 import java.io.*;
 
 class Student
