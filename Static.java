@@ -1,21 +1,16 @@
-//static 
-//common
-//static la ekdach memory dili jate 
-
-
 import java.util.*;
 
 class Student
 {
         String name;
         static String school ;
-        // object sathi coomon
+
 	// All Student are school in RLMSS
 
 	public static void changeSchool()
 	{
 		school = "newschool";
-		//change 
+		//new scl
 	}
 
 }
