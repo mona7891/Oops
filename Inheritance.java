@@ -1,4 +1,5 @@
- class Shape  //base cls
+import java.util.*; 
+class Shape  //base cls
 {
 	public void area(); // function
 	{
