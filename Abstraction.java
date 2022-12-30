@@ -10,8 +10,8 @@ import java.util.*;
 
 abstract class  Animal  //hid
 {
-	abstract  void walk();  // useing Abstract
-	public void eat()       //useing Non-Abstract
+	abstract  void walk();  // using Abstract
+	public void eat()       //using Non-Abstract
 	{
 		System.out.println("Animal eats");
 	}
