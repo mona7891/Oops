@@ -1,7 +1,3 @@
-// well formate // order
-// Import java.util.* 
-// (utility package)
-// when we write a scanner cls use this package 
 
 import java.util.*;
 import bank;
