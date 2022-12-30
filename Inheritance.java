@@ -1,11 +1,4 @@
-//Inheritance ->(extends) one cls property use other cls are use is called as Inheritance 
-//shape have clr , size , parameter , area 
-// reuseblity (we can not wwrite same code ....)
-//extends cls are based(parent)cls --> extends cls  given property sub class 
-// 4 types
-// in c++ 5 type (java dont use multiplile inheritance)
-//-------------------------------------------------------------------------  
-class Shape  //base cls
+ class Shape  //base cls
 {
 	public void area(); // function
 	{
