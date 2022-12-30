@@ -1,2 +1,4 @@
 # Oops
-notes
+RUN :
+javac filename.java
+java filename 
